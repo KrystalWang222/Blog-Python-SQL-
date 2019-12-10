@@ -1,1 +1,6 @@
 Generic single-database configuration.
+You need to install all package by yourself.
+If project can't run, try to type this in terminal:
+(windows)> set FLASK_APP=test.py
+(mac)$ explort FLASK_APP=test.py
+flask run
